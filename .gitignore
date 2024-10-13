@@ -5,3 +5,4 @@ __*
 *.pdf
 main.py
 bling-phi-3-gguf/
+models/
